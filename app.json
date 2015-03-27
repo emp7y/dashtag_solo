@@ -15,7 +15,7 @@
 
     "env": {
         "HASHTAGS": {
-            "required": true
+            "required": false
             },
         "CENSORED_WORDS": {
             "required": false
