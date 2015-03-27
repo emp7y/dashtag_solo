@@ -47,7 +47,7 @@ group :production do
   gem 'rails_12factor'
 end
 
-
+gem "dotenv-rails"
 gem 'dashtag', :git => 'https://github.com/anirudh-eka/dashtag.git'
 
 ruby "2.1.3"
