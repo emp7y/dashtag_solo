@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/anirudh-eka/dashtag.git
-  revision: 630af99918bfa493029551bcbcb9affd7bf15cae
+  revision: 8ad5abea17603b5be096496cb47c344747f19a03
   specs:
     dashtag (0.0.1)
       httparty (>= 0.13.1)
@@ -136,7 +136,7 @@ GEM
     sdoc (0.4.1)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
-    spring (1.3.4)
+    spring (1.3.5)
     sprockets (3.0.3)
       rack (~> 1.0)
     sprockets-rails (2.2.4)

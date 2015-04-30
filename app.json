@@ -23,10 +23,10 @@
         "CENSORED_USERS": {
             "required": false
             },
-        "TWITTER_BEARER_KEY": {
+        "TWITTER_CONSUMER_KEY": {
             "required": false
             },
-        "TWITTER_BEARER_SECRET": {
+        "TWITTER_CONSUMER_SECRET": {
             "required": false
             },
         "INSTAGRAM_CLIENT_ID": {
