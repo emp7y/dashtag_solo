@@ -10,7 +10,7 @@
         "instagram"
     ],
     "scripts": {
-        "postdeploy": "bundle exec rake db:migrate"
+        "postdeploy": "bundle exec raket db:migrate"
     },
 
     "env": {
