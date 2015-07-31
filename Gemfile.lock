@@ -1,8 +1,10 @@
 GIT
   remote: https://github.com/anirudh-eka/dashtag.git
-  revision: 8ad5abea17603b5be096496cb47c344747f19a03
+  revision: 7422e101686be9538f7bc4d3daf4344efeb7a5f2
+  branch: 104
   specs:
     dashtag (0.0.1)
+      bcrypt (= 3.1.7)
       httparty (>= 0.13.1)
       jquery-rails (>= 3.1.2)
       rails (~> 4.2.0)
@@ -46,6 +48,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     arel (6.0.0)
+    bcrypt (3.1.7)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
     builder (3.2.2)
@@ -67,7 +70,7 @@ GEM
     execjs (2.5.2)
     globalid (0.3.5)
       activesupport (>= 4.1.0)
-    httparty (0.13.3)
+    httparty (0.13.5)
       json (~> 1.8)
       multi_xml (>= 0.5.2)
     i18n (0.7.0)
