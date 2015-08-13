@@ -48,6 +48,6 @@ group :production do
 end
 
 gem "dotenv-rails"
-gem 'dashtag', :git => 'https://github.com/anirudh-eka/dashtag.git', :branch => '104'
+gem 'dashtag', :git => 'https://github.com/anirudh-eka/dashtag.git'
 
 ruby "2.1.3"
