@@ -12,7 +12,7 @@ Check out an example of Dashtag [here](http://haikuhitmen.com/).
 To Deploy To Heroku
 -------------------
  Simply put the environment variables, as described below, into Heroku's dashboard after hitting the Deploy to Heroku Button above.
- [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/anirudh-eka/dashtag_solo.git)
+ [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/emp7y/dashtag_solo.git)
 
 
 Environment Variables
