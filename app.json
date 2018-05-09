@@ -1,8 +1,8 @@
 {
     "name": "Dashtag",
     "description": "Aggregate twitter and instagrams posts by hastags and usernames",
-    "website": "https://github.com/anirudh-eka/dashtag_solo",
-    "repository": "https://github.com/anirudh-eka/dashtag_solo",
+    "website": "https://github.com/emp7y/dashtag_solo",
+    "repository": "https://github.com/emp7y/dashtag_solo",
     "success_url": "/",
     "keywords": [
         "Social",
