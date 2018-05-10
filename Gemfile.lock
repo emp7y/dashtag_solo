@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/emp7y/dashtag.git
-  revision: 70a3c144c7531c03870a81a74f24d98474534bbd
+  revision: d4022a3c58d2b11ca0245ed90723a35b0ad4b122
   specs:
     dashtag (1.0.1)
       bcrypt (= 3.1.7)
